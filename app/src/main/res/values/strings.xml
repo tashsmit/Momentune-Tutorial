@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppIntroAnimation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="email">Welcome!</string>
+    <string name="calender">How it works</string>
+    <string name="shopping">Cherish the moment</string>
+    <string name="social_network">Flaunt your skillz!</string>
+
+
+    <string name="email_hint"         >Moment-Tune is the most creative way to experience music from your phone</string>
+    <string name="calender_hint"      >Our app uses sensors to compose sound                                   </string>
+    <string name="shopping_hint"      >If you like a particular sound, you can save it to your library</string>
+    <string name="social_network_hint">Share tunes and discover your inner Mozart                              </string>
+    <string name="skip">SKIP</string>
+
+</resources>
